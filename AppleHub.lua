@@ -2,5 +2,5 @@ local UniverseID = game:GetService("HttpService"):JSONDecode(game:HttpGet("https
 if game.PlaceId == 7449423635 or game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 122478697296975 or UniverseID == 994732206 then
    loadstring(game:HttpGet("https://raw.githubusercontent.com/Lobnii/ghangsitink/refs/heads/main/AppleCat-kaitunBF.lua"))()
 elseif game.PlaceId == 10260193230 then
-   loadstring(game:HttpGet("https://raw.githubusercontent.com/Lobnii/ghangsitink/refs/heads/main/Apple-Memesea.lua"))()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/Lobnii/ghangsitink/refs/heads/main/AppleCat-Memesea.lua"))()
 end
